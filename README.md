@@ -3,30 +3,19 @@
 
 ---
 
-### 👤 About Me
+<h3 align="left">👤 About Me</h3>
 
-- 🎓 I'm a self-taught developer passionate about building user-friendly web experiences  
-- 🌱 I’m currently learning **Tailwind CSS**, **.NET**, and **Reactjs**  
-- 📫 How to reach me: **adzyl.jipos@gmail.com**  
+<p align="left">
+  • 🎓 I'm a self-taught developer passionate about building user-friendly web experiences <br>
+  • 🌱 I’m currently learning <strong>Tailwind CSS</strong>, <strong>.NET</strong>, and <strong>ReactJS</strong> <br>
+  • 📫 How to reach me: <strong>adzyl.jipos@gmail.com</strong>
+</p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-aziii&label=Profile%20views&color=0e75b6&style=flat" alt="dev-aziii" /> </p>
+<h3 align="left">🛠 Languages and Tools</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-aziii&theme=tokyonight" alt="dev-aziii" />
-  </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/adzyl hilary a. jipos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adzyl hilary a. jipos" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
@@ -64,3 +53,11 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">📊 Github Statistics</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-aziii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dev-aziii" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-aziii&show_icons=true&locale=en&theme=tokyonight" alt="dev-aziii" /></p>
