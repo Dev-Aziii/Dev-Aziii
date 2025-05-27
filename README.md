@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aszyh</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h1 align="center">Hi 👋, I'm Adzyl</h1>
+<h3 align="center">A developer from the Philippines🦅🦅🦅</h3>
 
 ---
 
 <h3 align="left">👤 About Me</h3>
 
 <p align="left">
-  • 🎓 I'm a self-taught developer passionate about building user-friendly web experiences <br>
+  • 🎓 I'm a self-taught developer passionate about building user-friendly web experiences, and solving real-world problems using coding <br>
   • 🌱 I’m currently learning <strong>Tailwind CSS</strong>, <strong>.NET</strong>, and <strong>ReactJS</strong> <br>
   • 📫 How to reach me: <strong>adzyl.jipos@gmail.com</strong>
 </p>
@@ -30,9 +30,6 @@
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
