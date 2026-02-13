@@ -3,7 +3,7 @@
 **Software Developer** | **BSIT Student at University of Mindanao**  
 📍 Davao, Philippines
 
-Full-stack developer specializing in modern web and mobile applications. Passionate about building scalable solutions using cutting-edge technologies and best practices.
+Developer specializing in modern web and mobile applications. Passionate about building scalable solutions.
 
 ---
 
