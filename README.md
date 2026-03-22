@@ -46,7 +46,7 @@ Developer specializing in modern web and mobile applications. Passionate about b
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aziii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
